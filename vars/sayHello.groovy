@@ -1,4 +1,4 @@
-def call(String name = 'there' {
+def call(String name = 'there') {
 
   echo "hello ${name}!"
 }

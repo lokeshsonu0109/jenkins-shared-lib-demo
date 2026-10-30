@@ -1,7 +1,7 @@
-packge org.example
+package org.example
 class helper{
   static String toUpper(String name){
     def n = name ?: 'there'
-    return n.toUppercase()
+    return n.toUpperCase()
   }
 }
